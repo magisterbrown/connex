@@ -1,0 +1,13 @@
+venv
+data/*
+*.vim
+.ipynb_checkpoints/
+*.egg-info
+old_git/
+*.pyc
+__pycache__/
+points/*
+*.gz
+*.zip
+*.pkl
+*.pth
